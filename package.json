@@ -1,0 +1,20 @@
+{
+    "name": "node-cumulus",
+    "description": "Access Canto Cumulus DAM from node.js",
+    "version": "0.0.2",
+    "private": false,
+    "author": {
+        "name": "Colin Manning",
+        "email": "colinmanning.berlin@gmail.com"
+    },
+    "keywords": [
+        "Canto",
+        "Cumulus",
+        "DAM",
+        "Digital Asset Management"
+    ],
+    "dependencies": {
+        "debug": "~0.7.x",
+        "java": "~0.3.x"
+    }
+}
