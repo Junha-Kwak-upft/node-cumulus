@@ -51,10 +51,6 @@ As the Canto Cumulus Java classes are actually a wrapper on the Canto Cumulus na
 #!/bin/bash
 DYLD_LIBRARY_PATH="/usr/local/Cumulus_Java_SDK/lib"
 export DYLD_LIBRARY_PATH
-JAVA_HOME=/Library/Java/Home
-export JAVA_HOME
-JRE_HOME=/Library/Java/Home
-export JRE_HOME
 
 node $1 $*
 
